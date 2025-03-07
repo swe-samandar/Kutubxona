@@ -114,3 +114,4 @@ for book in books:
         description=book["description"],
         image=book["image"]
     )
+title = "Ko'hna dunyo", author = "O'tkir Hoshimov", genre = "Dramatik roman", publisher = "Sharq nashriyoti", price = 57000, quantity = 25, description = "O'tgan asrning ijtimoiy muammolari va insoniy qadriyatlari haqida hikoya qiluvchi asar.",
