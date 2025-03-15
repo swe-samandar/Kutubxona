@@ -1,7 +1,0 @@
-Kitoblar do'koni
-
-Crud bo'lsin(class View)
-
-search
-
-admin (class modeladmin)
